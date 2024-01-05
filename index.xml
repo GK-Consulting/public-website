@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>GK Consulting</title>
+      <link>https://gkconsulting.dev</link>
+      <description>Last 10 notes on GK Consulting</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>index</title>
+    <link>https://gkconsulting.dev/</link>
+    <guid>https://gkconsulting.dev/</guid>
+    <description>GK Consulting § Expert DevOps And Software Architecture Consulting § Our Expertise § Well architected software and robust infrastructure are critical to a technology platform’s success, and we’re here to ensure you’re on the right track.</description>
+    <pubDate>Fri, 29 Dec 2023 18:34:27 GMT</pubDate>
+  </item><item>
+    <title>resume</title>
+    <link>https://gkconsulting.dev/resume</link>
+    <guid>https://gkconsulting.dev/resume</guid>
+    <description>Resume - GK Consulting § You wouldn’t hire an engineer without vetting them, why should your vendors be an exception? Tools, Technology, Skills § Tools and technologies we love working with, non-exhaustive for brevity.</description>
+    <pubDate>Fri, 29 Dec 2023 18:34:27 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
